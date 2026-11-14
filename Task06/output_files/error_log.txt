@@ -1,0 +1,6 @@
+COLLEGE FEST ERROR LOG
+===================================
+department2.txt, Line 3: Damaged record - expected 5 fields
+department5.txt: Department file is missing
+192311003: Invalid email address: missing @
+192311001: Duplicate registration

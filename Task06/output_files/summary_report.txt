@@ -1,0 +1,13 @@
+COLLEGE FEST SUMMARY REPORT
+===================================
+Total valid registrations: 6
+Total events: 5
+
+EVENT-WISE PARTICIPANT COUNT
+Dance: 3
+Drama: 3
+Music: 2
+Photography: 1
+Singing: 2
+
+Total error records: 4

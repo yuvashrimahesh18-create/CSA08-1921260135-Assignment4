@@ -1,0 +1,8 @@
+COLLEGE FEST MASTER REGISTRATION LIST
+=============================================
+192311001 | Anu Kumar | CSE | anu@example.com | Events: Singing, Dance
+192311002 | Ravi Kumar | ECE | ravi@example.com | Events: Drama, Singing
+192311004 | Meena S | EEE | meena@example.com | Events: Music, Dance
+192311005 | Arun P | MECH | arun@example.com | Events: Drama, Music
+192311006 | Divya R | CIVIL | divya@example.com | Events: Photography, Dance
+192311007 | Sam T | BIO | sam@example.com | Events: Drama
