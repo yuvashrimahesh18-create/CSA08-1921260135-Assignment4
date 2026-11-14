@@ -1,0 +1,8 @@
+ATTENDANCE REPORT
+========================================
+192311001 | Present: 2 | Absent: 1 | Percentage: 66.67%
+192311002 | Present: 2 | Absent: 1 | Percentage: 66.67%
+192311003 | Present: 2 | Absent: 1 | Percentage: 66.67%
+192311004 | Present: 3 | Absent: 0 | Percentage: 100.00%
+192311005 | Present: 3 | Absent: 0 | Percentage: 100.00%
+192311006 | Present: 0 | Absent: 3 | Percentage: 0.00%
