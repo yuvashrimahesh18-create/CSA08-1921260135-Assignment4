@@ -1,0 +1,10 @@
+MONTHLY ATTENDANCE REPORT
+==================================================
+192311001 | Present: 2 | Absent: 1 | Attendance: 66.67%
+WARNING: Attendance below 75%
+192311002 | Present: 2 | Absent: 1 | Attendance: 66.67%
+WARNING: Attendance below 75%
+192311003 | Present: 2 | Absent: 1 | Attendance: 66.67%
+WARNING: Attendance below 75%
+192311004 | Present: 2 | Absent: 0 | Attendance: 100.00%
+192311005 | Present: 2 | Absent: 0 | Attendance: 100.00%

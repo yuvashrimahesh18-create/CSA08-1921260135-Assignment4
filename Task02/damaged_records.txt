@@ -1,0 +1,4 @@
+DAMAGED ATTENDANCE RECORDS
+==================================================
+day2.txt, Line 5: 192311005,2026-10-02,L - Invalid status 'L'
+day3.txt, Line 4: 192311004,2026-10-03 - Expected 3 fields
